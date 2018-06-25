@@ -1,91 +1,43 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Siang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Siang Lim
+EIT, Chemical Engineering
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="siang@alumni.ubc.ca">siang@alumni.ubc.ca</a>
+| <a href="https://www.siang.ca">Webpage</a>
 </div>
 
+## Employment
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Present`
+__Process Control Engineer__, Parkland Burnaby Refinery
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2017`
+__Engineering Intern__, FortisBC Energy Products & Services
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__University of British Columbia__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- BASc Chemical Engineering with Distinction
+- Minor in Computer Science
 
 
 ## Awards
+`2017`
+APSC Rising Star Award
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2018 -->
 
 
