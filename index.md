@@ -46,17 +46,25 @@ __University of British Columbia__
 ## Awards
 `2017`
 APSC Rising Star Award
+- APSC Rising Stars are students who are graduating in the 2016/17 school year and who have amazing stories and accomplishments that make them stand out from the crowd. They are nominated by faculty, staff and peers.
 
 `2016`
 Donald F. Othmer Sophomore Academic Excellence Award
+- The Sophomore Academic Excellence Award is presented to the one AIChE student member in each student chapter who has attained the highest scholastic grade-point average during his/her freshman and sophomore years, on recommendation of the Student Chapter Advisor.
 
 `2016`
 Graham Somerville Endowed Undergraduate Scholarship
+- Scholarship endowed by Graham F. Somerville, CHML '57. Awarded on the basis of academic standing and/or financial need, with recommendation of the Department of Chemical and Biological Engineering.
+
+`2016`
+Ying Ying Chan Zee Scholarship
+- The scholarship is awarded to a student entering the final year in the Chemical Engineering Department, with first class standing, who was chosen by the class and the faculty to be the most helpful to others academically.
 
 
 
 
-### Footer
+
+### Notes
 
 Last updated: June 2018
 
