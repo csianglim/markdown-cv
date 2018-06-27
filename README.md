@@ -1,7 +1,7 @@
 markdown-cv
 ===========
 
-CV generated using [markdown-cv](https://github.com/elipapa/markdown-cv).
+Siang's CV generated using [markdown-cv](https://github.com/elipapa/markdown-cv).
 
 ### Author
 
