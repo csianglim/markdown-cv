@@ -5,11 +5,11 @@ title: Siang's CV
 # Siang Lim
 EIT, Chemical Engineering
 
-<!-- <div id="webaddress">
+<div id="webaddress">
 <a href="mailto:siang@alumni.ubc.ca">siang@alumni.ubc.ca</a>
 | <a href="https://www.siang.ca">Webpage</a>
 </div>
- -->
+
 
 ## Education
 
@@ -51,7 +51,7 @@ __NSERC USRA Fellow__, UBC Fuel Cells and Applied Electrochemistry Lab
 __Project Software Developer__, UBC Open ChemE Initiative
 
 `2017 Summer Term 2`
-__Undergraduate Teaching Assistant__, UBC CPSC 210 (Software Construction)
+__Undergraduate TA__, UBC CPSC 210 (Software Construction)
 
 `2017 Winter Term 1`
 __Lead Teaching Assistant__, UBC APSC 160 (Introduction to Computation in Engineering Design)
@@ -60,31 +60,37 @@ __Lead Teaching Assistant__, UBC APSC 160 (Introduction to Computation in Engine
 __Lead Teaching Assistant__, UBC APSC 160 (Introduction to Computation in Engineering Design)
 
 `2016 Winter Term 2`
-__Undergraduate Teaching Assistant__, UBC APSC 160 (Introduction to Computation in Engineering Design)
+__Undergraduate TA__, UBC APSC 160 (Introduction to Computation in Engineering Design)
 
 ## Publications
 `2018`
 **Siang, L. C.**, Fernandez-Gonzalez, R. & Feng, J. J., Modeling cell intercalation during *Drosophila* germband extension. *Phys. Biol.* (submitted 2018, under review).
 
 ## Presentations
+Presenter(s) denoted by an asterisk *
 
 `2017`
-**S. Lim**, Y. Tsai, B. Gopaluni. Teaching An Old Dog New Tricks: Deep Reinforcement Learning for Process Control. *10th World Congress of Chemical Engineering (WCCE10)*, Barcelona, Spain, Undergraduate Poster Presentation, 2017
+**S. Lim\***, Y. Tsai, B. Gopaluni. Teaching An Old Dog New Tricks: Deep Reinforcement Learning for Process Control. *10th World Congress of Chemical Engineering (WCCE10)*, Barcelona, Spain, Undergraduate Poster Presentation, 2017 
+- [[PDF]](https://figshare.com/articles/Teaching_An_Old_Dog_New_Tricks_Deep_Reinforcement_Learning_for_Process_Control/5632081)
 
-**S. Lim**, R. Fernandez-Gonzalez, J. J. Feng. Modeling Cell Polarization and Intercalation During Fruit Fly Development. *AIChE Pacific Northwest Student Regional Conference*, Corvallis, Oregon, Paper Presentation, 2017 (**1 of 3 students selected to represent UBC**)
+S. Zaid-Alkailani\*, N. T. Lo\*, V. Chiew, **S. Lim**, J. Verrett. UBC Open Chem-E: An Open-Source, Team-Based Learning Approach to Chemical Engineering. *67th Canadian Chemical Engineering Conference*, Edmonton, AB, Undergraduate Poster Presentation, 2017
+- [[PDF]](https://doi.org/10.6084/m9.figshare.5632213.v1)
 
-**S. Lim**, R. Fernandez-Gonzalez, J. J. Feng. Modeling Cell Polarization and Intercalation During Fruit Fly Development. *AIChE Pacific Northwest Student Regional Conference*, Corvallis, Oregon, Poster Presentation, 2017 (**2nd Place Award**)
+**S. Lim\***, R. Fernandez-Gonzalez, J. J. Feng. Modeling Cell Polarization and Intercalation During Fruit Fly Development. *AIChE Pacific Northwest Student Regional Conference*, Corvallis, Oregon, Paper Presentation, 2017 (**1 of 3 students selected to represent UBC**)
 
-**S. Lim**, R. Fernandez-Gonzalez, J. J. Feng. Modeling Cell Polarization and Intercalation During Fruit Fly Development. *UBC Multidisciplinary Undergraduate Research Conference (MURC)*, Vancouver, BC, Poster Presentation, 2017
+**S. Lim\***, R. Fernandez-Gonzalez, J. J. Feng. Modeling Cell Polarization and Intercalation During Fruit Fly Development. *AIChE Pacific Northwest Student Regional Conference*, Corvallis, Oregon, Poster Presentation, 2017 (**2nd Place Award**)
+
+**S. Lim\***, R. Fernandez-Gonzalez, J. J. Feng. Modeling Cell Polarization and Intercalation During Fruit Fly Development. *UBC Multidisciplinary Undergraduate Research Conference (MURC)*, Vancouver, BC, Poster Presentation, 2017
 
 `2016`
-**S. Lim**, R. Fernandez-Gonzalez, J. J. Feng. Modeling Cell Polarization and Intercalation During *Drosophila* Germband Extension. *Northwest Biomechanics Symposium*, Vancouver, BC, Podium Presentation, 2016
+**S. Lim\***, R. Fernandez-Gonzalez, J. J. Feng. Modeling Cell Polarization and Intercalation During *Drosophila* Germband Extension. *Northwest Biomechanics Symposium*, Vancouver, BC, Podium Presentation, 2016
 
 `2015`
-T. Asawo, A. Kritharis, **C. S. Lim**, A. May, A. Mitchell, W. Xi. Carbon-Neutral Production and Transport of Hydrogen Using LNG Infrastructure. *3rd International LNG in BC Conference*, Vancouver, BC, Poster Presentation, 2015 (**2nd Place Award**)
+T. Asawo, A. Kritharis\*, **C. S. Lim\***, A. May, A. Mitchell, W. Xi\*. Carbon-Neutral Production and Transport of Hydrogen Using LNG Infrastructure. *3rd International LNG in BC Conference*, Vancouver, BC, Poster Presentation, 2015 (**2nd Place Award**)
 
 ## Workshops
 A. Kritharis, **S. Lim**, S. Elnawawi, J. Donaldson. Internet of Brewing (IoB) - The Digital Revolution Meets Beer. *AIChE Annual Student Meeting*, Minneapolis, MN, 2017 (**Invited**)
+- [[Web]](http://beer.ubcchemecar.com/)
 
 ## Service
 `2017`
@@ -92,24 +98,30 @@ __Grant Reviewer__, NSERC Discovery Grant 2017
 
 ## Activities
 `2017 - Present`
-**Advisor**, UBC Envision (AIChE Student Chapter)
+**Advisor**, [UBC Envision](https://www.ubcenvision.com) (AIChE Student Chapter)
 
 `2015-2017`
 **Vice-Captain**, UBC Chem-E-Car Team
 
+## Projects
+`2017`
+**[Acid Reign](https://acidreign.mnbolson.com)**, design of a sulphuric acid and oleum production plant. UBC chemical engineering final year capstone project in a team of 6.
+
+`2017`
+**[Chem-E-Car](https://www.ubcenvision.com)**, design of a shoebox-sized car that can travel a pre-determined distance using chemical-based stopping mechanisms.
 
 ## Training
 `2018`
-__AspenTech__, *APC105*, Introduction to Aspen Process Controller Builder for APC Engineers, June 2018
+__Introduction to Aspen Process Controller Builder for APC Engineers__ (APC105), *AspenTech*, June 2018
 
-__ABB__, *M202*, Composer Engineering Software Tools, May 2018
+__Composer Engineering Software Tools__ (M202), *ABB*, May 2018
 
 ## Awards
 `2017`
-**APSC Rising Star Award**, awarded to students graduating in the 2016/17 school year with stories and accomplishments that make them stand out from the crowd. They are nominated by faculty, staff and peers.
+**APSC Rising Star Award**, awarded to students graduating in the 2016/17 school year with stories and accomplishments that make them stand out from the crowd.
 
 `2016`
-**Donald F. Othmer Sophomore Academic Excellence Award**, presented to one AIChE student member with the highest GPA during his/her freshman and sophomore years, on recommendation of the Student Chapter Advisor.
+**Donald F. Othmer Sophomore Academic Excellence Award**, presented to one freshman/sophomore AIChE student member with the highest GPA, on recommendation of the Student Chapter Advisor.
 
 `2016`
 **Graham Somerville Endowed Undergraduate Scholarship**, awarded on the basis of academic standing and/or financial need, with recommendation of the Department of Chemical and Biological Engineering.
