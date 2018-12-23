@@ -22,28 +22,36 @@ __University of British Columbia__
 ## Employment
 
 `Feb 2018 - Present`
-__Process Control Engineer__, Parkland Refining, Burnaby
+__Process Control Engineer__
+Parkland Refining, Burnaby
 
 `Sep 2017 - Feb 2018`
-__Engineering Intern (Energy Products & Services)__, FortisBC, Surrey
+__Engineering Intern (Energy Products & Services)__
+FortisBC, Surrey
 
 `May 2017 - Dec 2017`
-__NSERC USRA Fellow__, UBC DAIS Lab, Prof. B. Gopaluni
+__NSERC USRA Fellow__
+UBC DAIS Lab, Prof. B. Gopaluni
 
 `Sept 2015 - Apr 2017`
-__Undergraduate Research Assistant__, UBC MathBio Group, Prof. J. Feng
+__Undergraduate Research Assistant__
+UBC MathBio Group, Prof. J. Feng
 
 `Summer 2016`
-__Engineering Co-op (Energy Products & Services)__, FortisBC, Surrey
+__Engineering Co-op (Energy Products & Services)__
+FortisBC, Surrey
 
 `Summer 2015`
-__NSERC USRA Fellow__, UBC Fuel Cells and Applied Electrochemistry Lab
+__NSERC USRA Fellow__
+UBC Fuel Cells and Applied Electrochemistry Lab
 
 `Sept 2014 - Dec 2014`
-__Engineering Intern__, Mantra Energy Ltd, Vancouver
+__Engineering Intern__
+Mantra Energy Ltd, Vancouver
 
 `Summer 2014`
-__NSERC USRA Fellow__, UBC Fuel Cells and Applied Electrochemistry Lab
+__NSERC USRA Fellow__
+UBC Fuel Cells and Applied Electrochemistry Lab
 
 ## Teaching
 
