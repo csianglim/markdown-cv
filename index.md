@@ -48,7 +48,7 @@ __NSERC USRA Fellow__, UBC Fuel Cells and Applied Electrochemistry Lab
 ## Teaching
 
 `Jan 2018 - Present`
-__Project Software Developer__, UBC Open ChemE Initiative
+__Project Software Developer__, UBC [Open ChemE](http://opencheme.github.io) Initiative
 
 `2017 Summer Term 2`
 __Undergraduate TA__, UBC CPSC 210 (Software Construction)
@@ -64,7 +64,9 @@ __Undergraduate TA__, UBC APSC 160 (Introduction to Computation in Engineering D
 
 ## Publications
 `2018`
-**Siang, L. C.**, Fernandez-Gonzalez, R. & Feng, J. J., Modeling cell intercalation during *Drosophila* germband extension. *Phys. Biol.* (submitted 2018, under review).
+**Siang, L. C.**, Fernandez-Gonzalez, R. & Feng, J. J., Modeling cell intercalation during *Drosophila* germband extension. *Phys. Biol.* (2018).
+
+Y. Tsai, Q. Lu, L. Rippon, **S. Lim**, A. Tulsyan, B. Gopaluni, Pattern and Knowledge Extraction using Process Data Analytics: A Tutorial. *10th IFAC Symposium on Advanced Control of Chemical Processes* (2018).
 
 ## Presentations
 Presenter(s) denoted by an asterisk *
@@ -94,7 +96,7 @@ A. Kritharis, **S. Lim**, S. Elnawawi, J. Donaldson. Internet of Brewing (IoB) -
 
 ## Service
 `2017`
-__Grant Reviewer__, NSERC Discovery Grant 2017
+__External Grant Reviewer__, NSERC Discovery Grant 2017
 
 ## Activities
 `2017 - Present`
@@ -135,6 +137,6 @@ __Composer Engineering Software Tools__ (M202), *ABB*, May 2018
 
 ### Notes
 
-Last updated: June 2018
+Last updated: December 2018
 
 
