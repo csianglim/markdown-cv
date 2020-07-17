@@ -100,7 +100,7 @@ T. Asawo, A. Kritharis\*, **C. S. Lim\***, A. May, A. Mitchell, W. Xi\*. Carbon-
 
 ## Workshops
 A. Kritharis, **S. Lim**, S. Elnawawi, J. Donaldson. Internet of Brewing (IoB) - The Digital Revolution Meets Beer. *AIChE Annual Student Meeting*, Minneapolis, MN, 2017 (**Invited**)
-- [[Web]](http://beer.ubcchemecar.com/)
+- [[Web]](http://www.ubcenvision.com/beer-workshop/)
 
 ## Service
 `2017`
